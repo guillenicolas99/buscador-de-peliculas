@@ -2,6 +2,7 @@ header{
   display: inline-flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 header form{
